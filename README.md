@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeetsikder
 - 👀 I’m interested in Web development, web apps development, JavaScript,
-- 🌱 I’m currently learning JavaScript, css, html
-- 💞️ I’m looking to collaborate on Web development 💞️
+- 🌱 I’m currently learning React,Node.js & MongoDb.
+- 💞️ I’m looking to collaborate on Web Application development 💞️
 - 📫 How to reach me https://iamjeet.cf
 
 <!---
